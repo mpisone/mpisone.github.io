@@ -48,7 +48,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 35,
     "versionPublish": "4.10.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/code-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
